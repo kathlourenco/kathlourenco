@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kathleen Claire 
 
-- 🔭 I’m currently a Software Engineer Student 
+- 🔭 I’m currently a Software Engineer working with Cybersecurity
 
 <div>
 <a href="https://github.com/kathlourenco">
